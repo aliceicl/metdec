@@ -1,0 +1,16 @@
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection:
+
+        Connection-specific DNS Suffix  . : google.co.th
+        IP Address. . . . . . . . . . . . : 74.125.135.94
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . : 74.125.135.1
+
+Ethernet adapter Local Area Connection 2:
+
+        Connection-specific DNS Suffix  . : google.co.th
+        IP Address. . . . . . . . . . . . : 172.16.84.94
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . : 172.16.84.1

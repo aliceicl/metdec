@@ -1,0 +1,18 @@
+
+Image Name                   PID Session Name     Session#    Mem Usage
+========================= ====== ================ ======== ============
+System Idle Process            0 Console                 0         16 K
+System                         4 Console                 0        216 K
+smss.exe                       1 Console                 0        420 K
+csrss.exe                      2 Console                 0      2,348 K
+winlogon.exe                   8 Console                 0      4,680 K
+services.exe                  52 Console                 0      3,512 K
+lsass.exe                     84 Console                 0      1,540 K
+svchost.exe                 1234 Console                 0      5,148 K
+svchost.exe                 5678 Console                 0      4,444 K
+svchost.exe                   90 Console                 0     25,048 K
+svchost.exe                    3 Console                 0      4,204 K
+svchost.exe                 1111 Console                 0      3,928 K
+spoolsv.exe                 2014 Console                 0      6,680 K
+explorer.exe                 333 Console                 0     30,668 K
+rundll32.exe                 777 Console                 0      3,568 K

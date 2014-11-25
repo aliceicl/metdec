@@ -1,0 +1,44 @@
+
+Windows IP Configuration
+
+        Host Name . . . . . . . . . . . . : ???????? 
+        Primary Dns Suffix  . . . . . . . :
+        Node Type . . . . . . . . . . . . : Hybrid
+        IP Routing Enabled. . . . . . . . : No
+        WINS Proxy Enabled. . . . . . . . : No
+        DNS Suffix Search List. . . . . . : google.co.th
+                                            google.com
+
+Ethernet adapter Local Area Connection:
+
+        Connection-specific DNS Suffix  . : google.co.th
+        Description . . . . . . . . . . . : Apple
+
+        Physical Address. . . . . . . . . : F8-1E-DF-16-64-F6
+        Dhcp Enabled. . . . . . . . . . . : Yes
+        Autoconfiguration Enabled . . . . : Yes
+        IP Address. . . . . . . . . . . . : 74.125.135.94
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . : 74.125.135.1
+        DHCP Server . . . . . . . . . . . : 74.125.135.1
+        DNS Servers . . . . . . . . . . . : 74.125.135.1
+        Primary WINS Server . . . . . . . : 74.125.135.1
+        Lease Obtained. . . . . . . . . . : Friday, May 23, 2014 1:33:19 PM
+        Lease Expires . . . . . . . . . . : Friday, May 23, 2015 2:03:19 PM
+
+Ethernet adapter Local Area Connection 2:
+
+        Connection-specific DNS Suffix  . : google.co.th
+        Description . . . . . . . . . . . : Apple
+
+        Physical Address. . . . . . . . . : F8-1E-DF-16-64-00
+        Dhcp Enabled. . . . . . . . . . . : Yes
+        Autoconfiguration Enabled . . . . : Yes
+        IP Address. . . . . . . . . . . . : 172.16.84.94
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+        Default Gateway . . . . . . . . . :
+        DHCP Server . . . . . . . . . . . : 172.16.84.1
+        DNS Servers . . . . . . . . . . . : 172.16.84.1
+        Lease Obtained. . . . . . . . . . : Friday, May 23, 2014 1:33:20 PM
+        Lease Expires . . . . . . . . . . : Friday, May 23, 2015 2:03:20 PM

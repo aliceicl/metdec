@@ -1,0 +1,7 @@
+
+User accounts for \\STRATUM
+
+-------------------------------------------------------------------------------
+Administrator            Guest                    jarvis
+captain
+The command completed successfully.
